@@ -1,20 +1,20 @@
 {
-  "name": "circle-ci-demo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jojoLockLock/circle-ci-demo.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jojoLockLock/circle-ci-demo/issues"
-  },
-  "homepage": "https://github.com/jojoLockLock/circle-ci-demo#readme"
+	"name": "circle-ci-demo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo hello circle ci"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jojoLockLock/circle-ci-demo.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jojoLockLock/circle-ci-demo/issues"
+	},
+	"homepage": "https://github.com/jojoLockLock/circle-ci-demo#readme"
 }
